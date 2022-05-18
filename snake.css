@@ -1,0 +1,25 @@
+
+.grid{
+    width: 440px;
+    height: 440px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D3D3D3;
+  }
+  
+  .grid div{
+    height: 20px;
+    width: 20px;
+  }
+  
+  .snake{
+    background-color: red;
+  }
+  
+  .mouse{
+    background-color: blue;
+  }
+  
+  .border{
+    background-color: black;
+  }
